@@ -1,4 +1,5 @@
 # KELASTAMBAH Remove Background
+![KELASTAMBAH](https://github.com/KELASTAMBAH/KELASTAMBAH/blob/main/ktkt.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
