@@ -32,7 +32,7 @@ python3 kt.rb.py
 ```
 
 ## Penggunaan
-1. Masukkan path gambar yang ingin digunakan sebagai input
+1. Masukkan path gambar yang ingin digunakan melalui input saat menjalankan program
 2. Gambar hasil akan disimpan dalam folder `output/` dengan nama "kt.rb_[timestamp].png"
 
 ## Kontribusi
