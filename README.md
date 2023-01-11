@@ -17,7 +17,7 @@ KELASTAMBAH Remove Background adalah sebuah program Python yang digunakan untuk 
 
 ## Instalasi
 ```bash
-# CLone repositori ini
+# Clone repositori ini
 git clone https://github.com/KELASTAMBAH/KT-Remove-Background.git
 cd KT-Remove-Background
 
